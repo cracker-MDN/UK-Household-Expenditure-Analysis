@@ -309,7 +309,7 @@ Combined Model: R² = 0.412 (41.2% variance explained)
   title = {What Drives UK Household Spending? An Analysis Using the Living Costs and Food Survey},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/uk-household-expenditure-analysis}
+  url = {https://github.com/cracker-MDN/uk-household-expenditure-analysis}
 }
 ```
 
