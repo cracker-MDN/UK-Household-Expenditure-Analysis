@@ -305,11 +305,11 @@ Combined Model: R² = 0.412 (41.2% variance explained)
 
 ```bibtex
 @misc{uk_expenditure_2026,
-  author = {Ferrer Pons, Borja and Noornabi, MD and Chanekar, Hilal and Zanón Pons, Marc and Ponte, Simão},
+  author = {Borja Ferrer Pons, MD Noornabi, Hilal Chanekar, Marc Zanón Pons, Simão Ponte},
   title = {What Drives UK Household Spending? An Analysis Using the Living Costs and Food Survey},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/cracker-MDN/uk-household-expenditure-analysis}
+  url = {https://github.com/cracker-MDN/UK-Household-Expenditure-Analysis}
 }
 ```
 
